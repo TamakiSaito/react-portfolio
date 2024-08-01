@@ -1,3 +1,5 @@
+import homeImage from './assets/images/home.JPG';
+
 const logotext = "TM";
 const meta = {
     title: "Tamaki",
@@ -5,14 +7,14 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m Tamaki",
+    title: "This is Tamaki",
     animated: {
-        first: "I love dancing",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "See the hidden beauty by not judging.",
+        second: "Ask the right questions.",
+        third: "You have to believe to be able to do.",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "He can who thinks he can, and he can’t who thinks he can’t. This is an inexorable, indisputable law.",
+    your_img_url: homeImage,
 };
 
 const dataabout = {
